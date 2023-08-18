@@ -66,7 +66,7 @@ Web development, cloud platform, AI
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg "java)") -->
 <!-- 마크다운 이미지 문법은 크기 조절 불가능 -> 크기 조절하려면 img 태그 그대로 사용하기 -->
 <!-- 이미지 복사 : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> -->
-<1-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/> -->
 
 <!-- 기타 (github 통계) -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
