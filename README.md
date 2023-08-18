@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234043BA&title_bg=%23FD0505&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!-- 인사말 -->
-Hi there 👋
-Full stack development Kim jongin from seoul, Republic of Korea.
+Hi there 👋  
+I am Kim Jongin. Full stack developer from seoul, Republic of Korea.
 
 <!-- 나에 대한 설명 -->
 ## About me 🌱<br>
