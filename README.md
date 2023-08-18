@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- 주석 -->
 <!-- 줄바꿈 : <br> or spacebar 두 번 이상 -->
 <!-- 글머리 : #, ##, ..., ###### -->
@@ -25,8 +26,9 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234043BA&title_bg=%23FD0505&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!-- 인사말 -->
+<!-- 이모지 사이트 : https://emojipedia.org/ -->
 Hi there 👋  
-I am Kim Jongin. Full stack developer from seoul, Republic of Korea.
+I am Kim Jongin. Full stack developer from seoul, Republic of Korea. 🧑
 
 <!-- 나에 대한 설명 -->
 ## About me 🌱<br>
@@ -50,6 +52,7 @@ Web development, cloud platform, AI
 HTML, CSS, Javascript, React, SpringBoot, Mysql, STS4 ...
 
 <!-- 2. 뱃지 -->
+<!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
 <!-- ![Static Badge](https://img.shields.io/badge/[표시할이름-색상]?style=plastic,flat,flat-square,for-the-badge,social&logo=[기술스택아이콘]&logoColor=[로고색]) -->
 ![Static Badge](https://img.shields.io/badge/front-javascript-yellow)
