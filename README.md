@@ -39,16 +39,16 @@ I’m currently learning Basic Programming skills like HTML, CSS, JavaScript, Jq
 How to reach me: euncun9810@gmail.com
 
 <!-- 관심 분야 -->
-## Interest
+## Interest ⭐
 Web development, cloud platform, AI
 
 <!-- 최근 프로젝트 -->
-## Latest Projects
+## Latest Projects 📜
 [1. town community](https://github.com/jong9810/towncommunity)  
 [2. DBO League](https://github.com/ha-neu1/DBOLeague)
 
 <!-- 사용할 수 있는 언어 및 툴 -->
-## Language & Tools  
+## Language & Tools ⚒️
 <!-- 1. 글자 -->
 <!-- HTML, CSS, Javascript, React, SpringBoot, Mysql, STS4 ... -->
 
