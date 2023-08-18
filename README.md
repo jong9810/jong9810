@@ -47,7 +47,7 @@ Web development, cloud platform, AI
 [1. town community](https://github.com/jong9810/towncommunity)
 
 <!-- 사용할 수 있는 언어 및 툴 -->
-## Language & Tools  \
+## Language & Tools  
 <!-- 1. 글자 -->
 HTML, CSS, Javascript, React, SpringBoot, Mysql, STS4 ...
 
