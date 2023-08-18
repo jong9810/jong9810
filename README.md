@@ -49,7 +49,7 @@ Web development, cloud platform, AI
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## Language & Tools  
 <!-- 1. 글자 -->
-HTML, CSS, Javascript, React, SpringBoot, Mysql, STS4 ...
+<!-- HTML, CSS, Javascript, React, SpringBoot, Mysql, STS4 ... -->
 
 <!-- 2. 뱃지 -->
 <!-- https://shields.io/ -->
@@ -66,7 +66,7 @@ HTML, CSS, Javascript, React, SpringBoot, Mysql, STS4 ...
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg "java)") -->
 <!-- 마크다운 이미지 문법은 크기 조절 불가능 -> 크기 조절하려면 img 태그 그대로 사용하기 -->
 <!-- 이미지 복사 : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/>
+<1-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/> -->
 
 <!-- 기타 (github 통계) -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
